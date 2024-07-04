@@ -12,16 +12,17 @@ redirect_from:
 Since his admission to the current program, he has written over 30 academic articles related to his interest and published multiple first-authored articles in reputable international journals. He extends research regarding technology-enhanced education and English as a foreign language teaching through literature visualization, meta-analysis, systematic review, and structural equation modeling techniques.
 
 Additionally, he has been nominated as a reviewer for the following journals (in the order of the first review invitation):
-<li>Education and Information Technologies (SSCI Q1)
-<li>Language Learning & Technology (SSCI Q1)
-<li>System (SSCI Q1)
-<li>Language Teaching Research (SSCI Q1)
-<li>IEEE Transactions on Learning Technologies (SSCI Q1)
-<li>The Asia-Pacific Education Researcher (SSCI Q2)
-<li>European Journal of Psychology of Education (SSCI Q2)
-<li>Computers & Education (SSCI Q1 Ranked No.1 Edu & Edu Research)
-<li>Learning and Motivation (SSCI Q2)
-He is an editorial advisory board member of <em/>Quality Assurance in Education</em>.
+<li><em/>Education and Information Technologies</em> (SSCI Q1)
+<li><em/>Language Learning & Technology</em> (SSCI Q1)
+<li><em/>System</em> (SSCI Q1)
+<li><em/>Language Teaching Research</em> (SSCI Q1)
+<li><em/>IEEE Transactions on Learning Technologies</em> (SSCI Q1)
+<li><em/>The Asia-Pacific Education Researcher</em> (SSCI Q2)
+<li><em/>European Journal of Psychology of Education</em> (SSCI Q2)
+<li><em/>Computers & Education</em> (SSCI Q1 Ranked No.1 Edu & Edu Research)
+<li><em/>Learning and Motivation</em> (SSCI Q2)
+<br>
+<br>He is an editorial advisory board member of <em/>Quality Assurance in Education</em>.
 
 Email: linyupeng_research@126.com
 <br>Affiliation: Faculty of Foreign Studies, Beijing Language and Culture University (2022-09 to present)
