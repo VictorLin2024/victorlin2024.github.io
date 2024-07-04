@@ -28,9 +28,9 @@ Email: linyupeng_research@126.com
 <br>Affiliation: Faculty of Foreign Studies, Beijing Language and Culture University (2022-09 to present)
 <br>Address: 15 Xueyuan Road, Haidian District, Beijing, China
 
-Publications
+<br>Publications
 ======
-Lin & Yu, 2024
+<br>Lin & Yu, 2024
 <br/>Lin & Yu, 2023</br>
 
 
