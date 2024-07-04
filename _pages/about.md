@@ -16,13 +16,13 @@ Additionally, he has been nominated as a reviewer for the following journals (in
 <li><em>Language Learning & Technology </em>(SSCI Q1)
 <li><em>System</em> (SSCI Q1)
 <li><em>Language Teaching Research </em>(SSCI Q1)
-<li><em>IEEE Transactions on Learning Technologies </em> (SSCI Q1)
-<li><em/>The Asia-Pacific Education Researcher </em> (SSCI Q2)
-<li><em/>European Journal of Psychology of Education </em> (SSCI Q2)
-<li><em/>Computers & Education </em> (SSCI Q1 Ranked No.1 Edu & Edu Research)
-<li><em/>Learning and Motivation </em> (SSCI Q2)
+<li><em>IEEE Transactions on Learning Technologies </em>(SSCI Q1)
+<li><em>The Asia-Pacific Education Researcher </em>(SSCI Q2)
+<li><em>European Journal of Psychology of Education </em>(SSCI Q2)
+<li><em>Computers & Education </em>(SSCI Q1 Ranked No.1 Edu & Edu Research)
+<li><em>Learning and Motivation </em>(SSCI Q2)
 <br>
-<br>He is an editorial advisory board member of <em/>Quality Assurance in Education</em>.
+<br>He is an editorial advisory board member of <em>Quality Assurance in Education</em>.
 
 <br>Email: linyupeng_research@126.com
 <br>Affiliation: Faculty of Foreign Studies, Beijing Language and Culture University (2022-09 to present)
