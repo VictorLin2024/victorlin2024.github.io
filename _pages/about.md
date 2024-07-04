@@ -31,8 +31,8 @@ Affiliation: Faculty of Foreign Studies, Beijing Language and Culture University
 Address: 15 Xueyuan Road, Haidian District, Beijing, China<br><br>
 
 
-Publications <br>
-====== <br>
+Publications
+==================
 Lin & Yu, 2024
 <br>Lin & Yu, 2023
 
