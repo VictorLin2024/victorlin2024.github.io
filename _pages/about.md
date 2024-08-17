@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<br>Updated 5th-Jul-2024 01.42 CST
+<br>Updated 17th-August-2024 08.53 CST
 
 <em>[Mr. Y. Lin](https://orcid.org/0000-0002-3182-2459) </em> is a teaching assistant of Research Frontiers in Foreign Language Education (a postgraduate course in BLCU), awardee of national postgraduate scholarship China, and postgraduate majoring in linguistic studies and applied linguistics of foreign languages at Faculty of Foreign Studies, Beijing Language and Culture University, China.
 
