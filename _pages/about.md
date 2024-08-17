@@ -24,7 +24,7 @@ Additionally, he has been nominated as a reviewer for the following journals (in
 <li><em>Computers & Education </em>(SSCI Q1 Ranked No.1 Edu & Edu Research)
 <li><em>Learning and Motivation </em>(SSCI Q2)
 <li><em>Heliyon </em>(SCI Q1)
-
+<br>
 
 He is an editorial advisory board member of <em>Quality Assurance in Education</em> (2024-06-30 to present).<br>
 Email: linyupeng_research@126.com<br>
